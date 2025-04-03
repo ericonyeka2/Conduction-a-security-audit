@@ -21,14 +21,19 @@ The **Security Audit of Botium Toys** project aimed to evaluate the company's IT
    The scope of the audit was established, focusing on the company's IT assets, online payment systems, and compliance with U.S. and EU regulations. The goal was to ensure security measures were in place to protect customer data and business operations.
 
    *Ref 1: Scope Document*  
-   ![Scope Document](https://via.placeholder.com/150)  
+  <img width="690" alt="Screenshot 2025-04-03 at 16 00 30" src="https://github.com/user-attachments/assets/62428309-4765-414f-b0cf-c3dea8afc0c5" />
+
    This document outlines the audit scope and goals.
 
 2. **Perform Risk Assessment**  
    The risk assessment evaluated potential threats, including external cyberattacks, internal vulnerabilities, and compliance risks such as GDPR violations.
 
    *Ref 2: Risk Assessment Report*  
-   ![Risk Assessment Report](https://via.placeholder.com/150)  
+   <img width="652" alt="Screenshot 2025-04-03 at 16 06 01" src="https://github.com/user-attachments/assets/589aa756-29b4-4b60-ba6d-cec7f328911e" />
+<img width="639" alt="Screenshot 2025-04-03 at 16 06 48" src="https://github.com/user-attachments/assets/5bcd713f-36bf-482a-9107-22b1bb9b5778" />
+<img width="549" alt="Screenshot 2025-04-03 at 16 07 38" src="https://github.com/user-attachments/assets/53f8f909-3611-4ce2-a4b7-c0d85f828714" />
+<img width="553" alt="Screenshot 2025-04-03 at 16 08 06" src="https://github.com/user-attachments/assets/cf7188e6-8b9a-4b3c-9000-c98129d9e11e" />
+
    This is a snapshot of the risk assessment report outlining potential threats and vulnerabilities.
 
 3. **Controls and Compliance Checklist**  
@@ -61,5 +66,5 @@ The **Security Audit of Botium Toys** successfully identified key areas for impr
 
 ## References
 - [Audit Scope and Goals Report](https://docs.google.com/document/d/1s2u_RuhRAI40JSh-eZHvaFsV1ZMxcNSWXifHDTOsgFc/template/preview#heading=h.evidx83t54sc)
-- [Risk Assessment Report](https://docs.google.com/document/d/1HsIw5HNDbRXzW7pmhPLsK06B7HF-KMifENO_TlccbSU/template/preview)
-- [Controls and Compliance Checklist](https://docs.google.com/document/d/10NoXfyE3ZSiHFqiTE0fINL3xdPvTZq0j0VwnFEM0N3g/template/preview#heading=h.87tykp1u0l36)
+- [Control categories](https://docs.google.com/document/d/1HsIw5HNDbRXzW7pmhPLsK06B7HF-KMifENO_TlccbSU/template/preview)
+- [Controls and Compliance Checklist](https://docs.google.com/document/d/1QkTTWMKA2dj8kRdvpCPy1k-3FAypAkrHbrEI6j1Y9xY/edit?tab=t.0#heading=h.87tykp1u0l36)
