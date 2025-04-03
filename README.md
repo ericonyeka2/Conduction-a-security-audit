@@ -1,4 +1,4 @@
-# PROJECTNAME
+# Conducting a security audit 
 
 ## Objective
 [Brief Objective - Remove this afterwards]
