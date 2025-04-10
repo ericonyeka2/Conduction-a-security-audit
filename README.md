@@ -17,6 +17,7 @@ The **Security Audit of Botium Toys** project aimed to evaluate the company's IT
 - **Access Control Tools** and **Data Encryption Tools** to review system security.
 
 ## Steps
+#### These steps include screenshots from the Control and Compliance Checklist I completed as part of the process.
 1. **Define the Audit Scope and Goals**  
    The scope of the audit was established, focusing on the company's IT assets, online payment systems, and compliance with U.S. and EU regulations. The goal was to ensure security measures were in place to protect customer data and business operations.
 
@@ -62,7 +63,7 @@ The **Security Audit of Botium Toys** project aimed to evaluate the company's IT
 ---
 
 ## Conclusion
-The **Security Audit of Botium Toys** successfully identified key areas for improvement in their cybersecurity posture, particularly in online payment systems and compliance with data protection regulations. The audit report provided actionable recommendations to secure their systems, enhance employee security awareness, and ensure continued compliance with applicable laws.
+The Security Audit of Botium Toys successfully identified key areas for improvement in their cybersecurity posture, particularly in online payment systems and compliance with data protection regulations. Through conducting this audit, I gained hands-on experience in evaluating real-world security practices, identifying vulnerabilities, and applying industry standards to assess risk. I also strengthened my understanding of compliance frameworks and learned how to develop practical, actionable recommendations to improve an organization’s overall security. This experience enhanced my ability to think critically, communicate technical findings clearly, and approach security from both a technical and strategic perspective.
 
 ---
 
